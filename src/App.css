@@ -1,0 +1,19 @@
+
+body{
+  background-color: white;
+  color:  black;
+}
+
+button{
+ position: relative;
+ left: 50%;
+}
+
+SearchBar{
+  color: black;
+  border-color: aqua;
+}
+
+Flex{
+  border-radius: 5px;
+}
